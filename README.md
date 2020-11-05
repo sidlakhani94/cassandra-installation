@@ -1,6 +1,6 @@
 # cassandra-installation
 
-This script is used to install Cassandra Database of any version and on any port number in CentOS 8
+This script is used to install Cassandra in CentOS 8
 
 To Install Cassandra run following commands.
 
